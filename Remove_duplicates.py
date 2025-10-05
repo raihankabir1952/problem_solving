@@ -1,4 +1,4 @@
-def remove_duplicate(arr):      
+def remove_duplicate(arr):
     arr.sort()
     res=[]
     n=len(arr)
