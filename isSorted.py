@@ -11,3 +11,12 @@ if __name__ == "__main__":
         print("Array is Sorted")
     else:
         print("Array is Not Sorted")
+
+
+
+
+
+
+
+
+
